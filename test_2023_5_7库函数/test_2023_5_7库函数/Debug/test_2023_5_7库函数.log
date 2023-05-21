@@ -1,0 +1,4 @@
+﻿  test.c
+E:\c\test_2023_5_7库函数\test_2023_5_7库函数\test.c(81,12): warning C4090: “return”: 不同的“const”限定符
+E:\c\test_2023_5_7库函数\test_2023_5_7库函数\test.c(96): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  test_2023_5_7库函数.vcxproj -> E:\c\test_2023_5_7库函数\Debug\test_2023_5_7库函数.exe
