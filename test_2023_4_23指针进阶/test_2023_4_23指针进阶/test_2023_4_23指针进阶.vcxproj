@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bubble_sort.c" />
     <ClCompile Include="YMatrix.c" />
+    <ClCompile Include="判断.c" />
     <ClCompile Include="字符串左旋.c" />
+    <ClCompile Include="有序序列.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,7 +18,16 @@
     <ClCompile Include="YMatrix.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="bubble_sort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="字符串左旋.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有序序列.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
